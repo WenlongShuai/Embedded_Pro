@@ -1,0 +1,1 @@
+这里使用的ADC1 channel1，对于IO口PA1
